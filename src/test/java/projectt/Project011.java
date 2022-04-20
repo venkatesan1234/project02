@@ -2,9 +2,9 @@ package projectt;
 
 public class Project011 {
 public static void main(String[] args) {
-	System.out.println("venkat");
-	System.out.println("venky");
-	System.out.println("venkatesan");
+	System.out.println("ven");
+	System.out.println("venk");
+	System.out.println("venkate");
 	System.out.println("test1");
 }
 }
